@@ -55,7 +55,7 @@ AI_TEMPERATURE = 0.7   # response creativity
 
 ## NPCs
 
-Defined in `game/ai_npcs.rpy`:
+Defined in `game/ai_npcs.rpy`
 
 ## Files
 
